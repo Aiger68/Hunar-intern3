@@ -1,0 +1,41 @@
+[
+    { 
+     "id": 1, 
+    "title": "Loki", 
+    "description": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”", 
+    "thumbnail": "loki.jpeg", 
+    "video": "Marvel Studios  Loki _ Official Trailer _ Disney+.mp4" 
+    },
+
+    { 
+    "id": 2,
+     "title": "Moon Knight", 
+     "description": "Steven Grant discovers he's been granted the powers of an Egyptian moon god. But he soon finds out that these newfound powers can be both a blessing and a curse to his troubled life.", 
+     "thumbnail": "moon.jpg", 
+     "video": "Marvel Studios’ Moon Knight _ Official Trailer _ Disney+.mp4"
+    },
+
+    { 
+    "id": 3, 
+    "title": "Dead Pool", 
+    "description": "Deadpool is offered a place in the Marvel Cinematic Universe by the Time Variance Authority, but instead recruits a variant of Wolverine to save his universe from extinction.", 
+    "thumbnail": "dead pool.jpg", 
+    "video": "dead.mp4" 
+    },
+
+    { 
+    "id": 4, 
+    "title": "What If...?", 
+    "description": "Exploring pivotal moments from the Marvel Cinematic Universe and turning them on their head, leading the audience into uncharted territory.", 
+    "thumbnail": "whatif_lob_crd_01.jpg", 
+    "video": "Marvel Studios  What If...  _ Official Trailer _ Disney+.mp4" 
+    },
+
+    { 
+    "id": 5, 
+    "title": "Ms.Marvel", 
+    "description": "Kamala, a superhero fan with an imagination--particularly when it comes to Captain Marvel--feels like she doesn't fit in at school and sometimes even at home, that is until she gets superpowers like the heroes she admires.", 
+    "thumbnail": "Ms.marvel.jpg", 
+    "video": "Marvel Studios’ Ms. Marvel _ Official Trailer _ Disney+.mp4" 
+    }
+]
